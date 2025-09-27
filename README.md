@@ -1,4 +1,4 @@
-📊 Store Project
+# Store Project
 
 This project was developed as part of the DEPI Internship organized by the Ministry of Communication and Information Technology.
 
