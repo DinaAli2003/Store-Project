@@ -1,10 +1,11 @@
 # Store Project (Sales & Market Analysis)
 
 This project was developed as part of the DEPI Internship organized by the Ministry of Communication and Information Technology.
+The goal of the project was to build interactive dashboards that provide valuable insights into sales, profits, customers, and overall 
+performance across different dimensions
 
-The goal of the project was to build interactive dashboards that provide valuable insights into sales, profits, customers, and overall performance across different dimensions
 
-🚀 Project README: Interactive Sales & Market Performance Dashboard for a store
+🚀 Project README: Interactive Sales & Market Performance Dashboard
 1. Project Title: Sales & Market Dynamics Analyzer 📈
 2. Overview 💡
 This project is a powerful, interactive Microsoft Excel Dashboard Solution designed to provide a comprehensive, 360-degree view of sales performance, market trends, and key financial metrics. Built for high-speed analysis and data-driven strategy, the dashboard transforms raw sales data into actionable business intelligence, enabling users to quickly identify top performers, track targets, and understand consumer behavior.
