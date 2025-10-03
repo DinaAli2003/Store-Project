@@ -1,4 +1,4 @@
-# Store Project (Sales & Market Analysis)
+# Store Project (Sales & Market Analysis) (Excel)
 
 This project was developed as part of the DEPI Internship organized by the Ministry of Communication and Information Technology.
 The goal of the project was to build interactive dashboards that provide valuable insights into sales, profits, customers, and overall 
